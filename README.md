@@ -2,7 +2,7 @@
 The table tag is used to create the table.
 tr represents a table row, and <th> represents table header cells for column headings.
 
-![image](https://github.com/kaverichougule/Assignment2-TableFormation/assets/101037685/e898af4a-f38a-4c03-95b1-e13c57312b89)
+![image](https://github.com/kaverichougule/Assignment2-TableFormation/assets/101037685/6352325b-e397-48e5-a805-6070356b26f2)
 The first row has three header cells that define the column headings: "IMAGE," "VISIT LINK," and "DESCRIPTION." <br>
 The second row has a single header cell that spans across all three columns, indicating the category "CARS." <br>
 The third row contains the data for the "CARS" category: <br>
